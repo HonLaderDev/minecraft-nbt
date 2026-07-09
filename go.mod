@@ -1,3 +1,3 @@
-module github.com/RedLaderDev/minecraft-nbt
+module github.com/HonLaderDev/minecraft-nbt
 
 go 1.22
