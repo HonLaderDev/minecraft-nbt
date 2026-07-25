@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/HonLaderDev/minecraft-nbt/nbt"
+	"github.com/HonLaderDev/go-mcnbt/nbt"
 )
 
 func main() {
